@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oikosfigueroa
-- 👀 I’m interested in Data Science and Video Games! 
+- 👀 I’m interested in Data Science, NLP and Video Games! 
 - 🌱 I’m currently learning everything about NLP !
 - 💞️ I’m looking to collaborate on SpaCy, NLTK, WorldCloud, scikit-learn 
 - 📫 How to reach me -> http://karenlfigueroac.com/
