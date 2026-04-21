@@ -1,12 +1,23 @@
-- 👋 Welcome to my Github, I’m Karen Figueroa
-- 👀 I’m a Master's student at UT (Hook 'em!) (Masters in Data Science :D) 
-- I'm interested in many geek things, and basically just learning!
-- 🌱 I’m currently learning more about NLP, NN and want to be able to develop games and fun websites!
-- However, I'm also working in Causal inference projects and developing more my ideas as a Data scientist! 
-- 💞️ I’m looking to collaborate on Numpy, Pandas, SpaCy, NLTK, WorldCloud, scikit-learn, yellowbrick
-- For more info, please check my website :) -> klfc.me
+👋 Hi, I’m Karen Figueroa
 
-<!---
-oikosfigueroa/oikosfigueroa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+PhD student in Environmental & Global Health | Data Scientist  
+Focus: Geospatial Machine Learning, Remote Sensing, Vector-borne Diseases
+
+🔬 What I do:
+- Satellite image analysis (Sentinel, Landsat)
+- Raster processing (QGIS, GDAL, rasterio)
+- Deep learning for environmental data (PyTorch)
+- Spatial epidemiology (mosquito-borne diseases)
+
+🧠 Current interests:
+- Land use / land cover classification
+- Environmental risk mapping
+- Time-series satellite analysis
+- ML for public health
+
+🛠 Tech:
+Python | PyTorch | rasterio | geopandas | QGIS | Google Earth Engine
+
+📂 Featured Projects:
+
+🌐 Website: https://www.klfc.me/
